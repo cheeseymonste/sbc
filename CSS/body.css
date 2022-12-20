@@ -1,0 +1,128 @@
+.makers {
+  color: rgb(128, 18, 46);
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.makers-show,
+.makers-info {
+  font-size: 25px;
+  color: rgb(68, 105, 224);
+}
+
+.makers-show {
+  margin-bottom: 50px;
+}
+.general-info {
+  margin: 50px 0px 0px 50px;
+}
+
+.img-title {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.note {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: gray;
+  font-weight: 600;
+}
+
+.lists {
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+.information2 {
+  margin-left: 28px;
+  margin-bottom: 10px;
+}
+
+.information1,
+.information2 {
+  color: rgb(216, 114, 55);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.images-exaplain {
+  width: 550px;
+  margin-left: 28px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(55, 153, 55);
+  font-weight: 700;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.faq {
+  font-weight: 700;
+  font-size: 35px;
+  margin-left: 100px;
+  margin-top: 70px;
+  color: rgb(51, 137, 207);
+}
+
+.q1,
+.q2 {
+  font-weight: 600;
+  font-size: 25px;
+  margin-left: 125px;
+  color: rgb(155, 41, 41);
+}
+
+.a1,
+.a2 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 135px;
+  color: rgb(55, 153, 55);
+}
+
+.footer {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.copyrightImg {
+  width: 50px;
+  border-radius: 25px;
+}
+
+.copyright {
+  font-weight: 600;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.hi {
+  font-size: 100px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.helpyouout,
+.helplink {
+  font-size: 50px;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+.herelink {
+  color: black;
+  text-decoration: none;
+}
+
+.herelink:hover {
+  text-decoration: underline;
+}

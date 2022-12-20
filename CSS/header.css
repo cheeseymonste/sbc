@@ -1,0 +1,38 @@
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(53, 53, 53);
+}
+
+.talk-to-us,
+.welcome {
+  font-size: 90px;
+  color: rgb(78, 109, 196);
+  font-weight: 600;
+}
+
+.welcome {
+  margin: 0px 0px 0px 10px;
+}
+
+.talk-to-us {
+  margin: 5px 0px 5px 200px;
+}
+
+.img-position {
+  margin: 5px 200px 5px 50px;
+  display: flex;
+  align-items: center;
+}
+
+.link-style {
+  text-decoration: none;
+  color: rgb(78, 109, 196);
+}
